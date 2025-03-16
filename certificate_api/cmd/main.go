@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/yourusername/certificate_api/server/routes"
+	"github.com/adityaupadhyay0/certificate_api/server/routes"
 )
 
 func main() {
